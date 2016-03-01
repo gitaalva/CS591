@@ -1,0 +1,12 @@
+Q1: JSON object             3/5 (infinite loop)
+Q2: 1/1/2015 creation_dates 2/5 (need to get more pages while has_more)
+Q3: question_dataframe.csv  10/10
+Q4: Users distance matrix   30/30
+Q5: Users plt               5/10
+Q6: Timeseries              20/30
+Q7: Timeseries plt          5/10
+
+Total:                      45/100
+
+commit a3ca78759a84f6d309ed49b4e0e8445ae7bfa360
+3 days late: 10% off each day
