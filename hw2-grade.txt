@@ -1,0 +1,10 @@
+Q1. (review score comparison) :         15/20 (stemmer not used on lexicon)
+Q2. (visualization and analysis) :      10/10
+Q3. (clustering) :                      30/30
+Q4. (cluster visualization) :           15/15
+Q5. (outlier detection) :               15/15
+Q6. (analysis) :                        10/10
+
+Late Penalty (if any) : 
+
+Total :                                 95/100
