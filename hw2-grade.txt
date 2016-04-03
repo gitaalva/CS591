@@ -5,6 +5,6 @@ Q4. (cluster visualization) :           15/15
 Q5. (outlier detection) :               15/15
 Q6. (analysis) :                        10/10
 
-Late Penalty (if any) : 
+Late Penalty (if any) : -10
 
-Total :                                 95/100
+Total :                                 85/100
